@@ -1,0 +1,18 @@
+---
+title: "penguins"
+author: "Dawn"
+date: "2/10/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Data
+The data set contain body measurements of different species of penguins like bill length and depth, flipper length, and body mass as well as sex and the islands on which they were found. 
+![](https://i.guim.co.uk/img/media/4b51973ec2c2d72d7064b877dfb9b2e60b72e574/86_218_2413_1448/master/2413.jpg?width=1200&quality=85&auto=format&fit=max&s=8bab6af93dd23aae5380b528834da07c)
+
+
+
+

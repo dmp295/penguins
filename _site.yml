@@ -1,0 +1,9 @@
+name: "our-website"
+navbar:
+  title: "Our Collaborative Website"
+  left:
+    - text: "Index"
+      href: index.Rmd
+    - text: "Single Trait"
+      href: single_trait.Rmd
+output_dir: "."
